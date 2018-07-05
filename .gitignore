@@ -186,3 +186,7 @@ Xcode/
 /.flatpak-builder/
 /repo/
 /build-dir/
+
+# Nix related stuff
+.direnv/
+result
